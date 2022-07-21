@@ -1,5 +1,4 @@
-[pastebin.com/EXg4RUbg](https://pastebin.com/EXg4RUbg)
+Link to Pastebin.com
 
-[pastebin.com/u/personhood2022](https://pastebin.com/u/personhood2022)
+[Link](https://pastebin.com/EXg4RUbg)
 
-Compressed HTML file: Article.html
