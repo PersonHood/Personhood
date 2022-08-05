@@ -160,7 +160,7 @@ f.	What significant legal factors enter the realm of Monty Phython's song &quot;
 
 >[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
-As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs.
+As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs. *Note:* No "activity" has been initiated...
 
 These are presented in the order of most to least intriguing.
 
