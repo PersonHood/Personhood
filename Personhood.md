@@ -8,7 +8,8 @@
 
 ## Personhood	
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 *Personhood* is the hot-button issue of this decade.
 
@@ -19,6 +20,9 @@
 >The [ST] legislature is in the process of drafting a second one-line law that criminalizes destruction of gametes. 
 
 >Lawyer up everyone.
+
+>> *Note: Follow developments in GA, AZ, AL
+
 
 *Personhood* controversies are front and center; are focused on the social and legal; have incited the full spectrum of vocal ideologists; have pitted the true believers against moderate reasoners. Legislatures and courts are deciding the constitutional, civil, and criminal person's future.
 
@@ -58,7 +62,8 @@ However, the devil is in the details.
 
 ## Minimal Designations
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 ### A juridical person
 
@@ -76,7 +81,8 @@ However, given advances in modern medicine:
 
 ## Innocent Beginnings
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 So, pick one or more of these options covering each stage of biological development occurring in or out of a womb. A biological person starts:
 
@@ -108,7 +114,8 @@ Adding another idiom into the mix, is this an instance of putting the cart befor
 
 ## Neutral Law
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 In a country where the rule of law prevails, a reasonable person may expect a rational basis for an unequivocal legal definition of personhood vs human being that must prevail under all laws. Furthermore, laws pertaining to death or harm (for example: negligence, homicide, kidnapping) must apply to all legal biological persons. Anyone who aids and/or abets the breaking of those laws must be identified, charged, and tried in a court of law. Though historically not all of the People were equal - 3/5<sup>th</sup>Slaves; Japanese (1940s); Communists (1950s); Homosexuals (&lt; 2003) all presumed guilty.
 
@@ -158,7 +165,8 @@ f.	What significant legal factors enter the realm of Monty Phython's song &quot;
 
 ## Intriguing Legal Case Studies
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs.
 
@@ -274,7 +282,8 @@ These are presented in the order of most to least intriguing.
 
 ## Provocative Questions
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the legal case studies weren't provocative enough, the following list includes several ideas that may be approached with caution. These are presented in no particular order. Given legal personhood starts prior to being born:
 
@@ -298,7 +307,7 @@ As if the legal case studies weren't provocative enough, the following list incl
   - Are the participants also engaging in a sexual activity in the presence of unborn minors?
   - Are the participants considered sex offenders?
 
-`5. 	Under what conditions, in the interest of the state, may Child Protective Services legally remove the unborn, including *in vitro* fertilized eggs, and place the unborn in foster care - either a natural or artificial gestating environment?
+`5. 	Under what conditions, in the interest of the state, may Child Protective Services legally remove the unborn, including *in vitro* fertilized eggs, and place the unborn in foster care - either a frig, or a natural or artificial gestating environment?
 
   - Under what conditions may the unborn become a ward of the court or ward of the state?
   - Who is culpable if the unborn dies as a ward?
@@ -348,41 +357,97 @@ As if the legal case studies weren't provocative enough, the following list incl
 
 ## Scary Future Developments
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the provocative questions weren't scary enough, the following list includes a few near-future science-fiction possibilities to imagine.
 
 `1. 	Given medical advances regarding indefinitely sustaining (&hellip;&ldquo;The Matrix&rdquo;, 1999) or freezing the unborn in an artificial environment:
 
-  - What laws would require being born by force?
-  - ...coerced compassionate transfer or face criminal charges?
+  - What laws would require being born by *force*?
+  - ...a coerced *compassionate transfer*, or face criminal charges?
   - Under what conditions must the risks be considered of causing harm to, or the death of, the unborn?
-  - May an individual (&hellip;next friend doctrine) petition a judge to issue a writ of habeas corpus - stopping unlawful imprisonment?
-  - What is the age of a person sustained in an artificial environment for more than 9 months?
+  - May an individual under the next friend doctrine petition a judge to issue a *writ of habeas corpus* - stopping the unlawful imprisonment of the unborn?
+  - What is the legal *age* of a person sustained in an artificial environment for more than 9 months?
   - ...for less than 9 months?
 
-`2. 	Given medical advances regarding genetic engineering (&hellip;CRISPR, 2012) where the genome (DNA) of living organisms may be modified:
+`2. 	Given medical advances regarding genetic engineering (&hellip;CRISPR, 2012) where the genome (DNA) of living organisms may be modified: What are the legal implications of modifying a zygote's DNA such that the gnome is sufficiently different from baseline H. sapiens, resulting in a person with *diminished* capacity?
 
-  - What are the legal implications of modifying a zygote's DNA such that the gnome is sufficiently different resulting in a person with diminished capacity vs baseline Homo sapiens?
-  - Is this another species - Homo reducto?
-  - ...diminished regarding lobes of the brain or body composition?
+  - Is this another species - *Homo reducto*?
+  - Is *it* non-human?
+  - ...diminished regarding lobes of the brain (docile) or body composition (no arms)?
 
-`3. 	What are the legal implications of modifying a zygote's DNA such that the gnome is sufficiently different resulting in a person with superior capacity vs baseline Homo sapiens?
+`3. 	What are the legal implications of modifying a zygote's DNA such that the gnome is sufficiently different from baseline H. sapiens, resulting in a person with *superior* capacity?
 
-  - Is this another species - Homo superio?
-  - ...superior regarding body composition or longevity?
+  - Is this another species - *Homo superio*?
+  - Is *it* non-human?
+  - ...superior regarding body composition (four arms) or longevity (healthy 200 years)?
 
-`4. 	Are Homo reducto, Homo superio, and/or other sentient beings (e.g., dolphins, apes, elephants, extraterrestrials) legal biological persons?
+`4. 	Are *non-human* entities legal persons, in the same manner as a (legal) *juridical person*  (corporation)? Why not? That can of worms is already opened. How would this legally impact lab experiments? zoos? pets? the food chain? environmental impact studies? Including:
+- *H. reducto*
+- *H. superio*
+- dolphins
+- apes
+- elephants
+- extraterrestrials
+- artificial intelligences
+- Is Google a mommy or daddy or both?
 
-`5. 	Given intentional or unintentional irreparable harm to, or death of, the unborn:
+`5. 	Given intentional or unintentional irreparable harm to (...or death of) the unborn:
 
-  - What law may invest a designated agency with the authority to direct the replacement of the unborn through cloning?
+  - What law may invest a designated Federal or State agency with the authority to direct the replacement of the departed unborn through *cloning*?
 
 ## Worst Case Scenarios
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
+>[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+> [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
-`1. 	Legislatures, organizations, and/or individuals deploy readily available mobile surveillance systems and facial recognition software ("there's an app for that") with the purpose of monitoring medical facilities and pharmacies to identify alleged reproductive criminals.
+>>*Intriguing*, *Provocative*, and *Scary*. 
+
+It is not a spoiler to reveal that the *Worst* is this document's final chapter. 
+> *This is the end, my only friend...* (Morrison, 1967).
+
+Unfortunately, since June 24th, the *worst* is evolving rapidly and is in the news daily:
+
+- a 10 year-old little girl traveled across State lines to get an abortion - as reported to the State by the attending physician - necessary medical care (her pelvis would not enable delivery)  for a pregnancy resulting from incest and rape
+
+6 weeks later... and unfortunately that is ***not*** FAKE NEWS nor ALTERNATIVE FACTS. 
+
+Only if it were.
+
+- Three (3) States (AZ, GA, AL) effectively have fetal personhood laws on the books (*Headline news*)
+- All 3 support the death penalty
+- All 3 have fetal homicide laws on the books
+- AL and GA allow abortion "exceptions"
+
+Will AZ execute a mom over what could have been a miscarriage? We shall see.
+
+For some reason, Pandora's box and *Indiana Jones* (1981) come to mind.
+
+- Will icecream guy and AZ SB1367 (2017) guy Ducey be the first to lethally inject a mom?
+
+On the other hand:
+- ultra-conservative mid-west Kansans voted to retain their State's constitution guaranteed right to abortion - by a 20% margin - including in counties the Republicans own. No near-future undermining permitted.
+
+A silver lining.
+
+
+Worst-er than written herein is inevitable.
+
+ Remember:  
+- the Holocost
+- Hiroshima
+- September 11th
+- Sandyhook
+- Ukraine
+
+Each was unimaginable before its time...
+
+**and** it will all be State mandated, so it is all AOK !
+
+So, back to the lists, a final six item list:
+
+`1. 	State legislatures, private organizations, and/or individuals deploy readily available mobile surveillance systems and facial recognition software ("there's an app for that") with the purpose of monitoring medical facilities and pharmacies to identify alleged reproductive criminals.
 - ***4,400,000 pregnancies/year***
 - ***1,000,000 miscarriages/year*** (~25%)
    - estimating 4-5 friends and family, aiding and abetting
@@ -398,7 +463,7 @@ As if the provocative questions weren't scary enough, the following list include
 - presenting more opportunities for gig workers on the road
 - *and* there is no law stopping them, it is State mandated !
 
-`2. 	Legislatures, organizations, and/or individuals create mandated and/or informal ***pregnancy registries*** 
+`2. 	State legislatures, private organizations, and/or individuals create mandated and/or informal ***pregnancy registries*** 
 - ...where reproductive progress is monitored using physical and social media methods
 - ...where impairing and/or failing to *satisfactorily* complete the reproductive process is subject to investigation
 - where findings may result in criminal and/or extortive claims against the alleged perpetrators 
@@ -406,7 +471,7 @@ As if the provocative questions weren't scary enough, the following list include
 - presenting more opportunities for tele-commuting global gig workers
 - *and* there is no law stopping them, it is State mandated !
 
-`3. 	Legislatures, organizations, and/or individuals employ social media and facial recognition software to 
+`3. 	State legislatures, private organizations, and/or individuals employ social media and facial recognition software to 
 - identify alleged reproductive criminals
 - publish names and addresses on-line ***sex offender registries*** - doxing
 - employ extortion and protection-racket methods (...revenge porn)
@@ -434,6 +499,14 @@ As if the provocative questions weren't scary enough, the following list include
 - Who would want that?
 - *"...but but that is not what we intended to happen"* said every last individual on the band-wagon after it headed to hell
 - *"...and to all a good night"* (December 23rd, 1823 front page of *The Troy Sentinel*)
+
+***
+
+## Ultima Verba
+
+What happens when a few more States ratify the *Equal Rights Amendment*?
+
+*** 
 
 Copyleft 2022 - edit, reproduce, publish
 
