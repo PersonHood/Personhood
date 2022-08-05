@@ -160,13 +160,13 @@ f.	What significant legal factors enter the realm of Monty Phython's song &quot;
 
 >[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
-As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs. *Note:* No "activity" has been initiated...
+As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs.
 
 These are presented in the order of most to least intriguing.
 
  In the mammalian XY sex-determination system, the following use of the word &quot;mother&quot; (ova, carrier) or &quot;father&quot; (sperm, donor) pertains to the role played vs a person's gender identity.
 
-`1. 	A potential mother and/or potential father employ any form of contraception that prevents fertilization (inter-gamete contact).
+`1. 	A potential mother and/or potential father employ any form of contraception that prevents fertilization (inter-gamete contact). *Note:* No "activity" has been initiated...
 
   - Is that a crime?
   - Is that conspiracy to commit murder, where the participants agreed to engage in the criminal act?
