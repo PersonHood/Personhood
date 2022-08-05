@@ -1,27 +1,56 @@
+[  this is a comment. ]::
+
+<link href="styles.css" rel="stylesheet"></link>
+
+> [Appendices](./Appendices-Top/Personhood-99-00-00-Appendices.md)  | [WTF](./Appendices-Top/Personhood-99-00-01-WTF.md)  | [Motivate](./Appendices-Top/Personhood-99-00-02-Motivate.md)  
+> [Overview](./Appendices-Top/Personhood-99-00-03-Overview.md)  | [Definitions](./Appendices-Top/Personhood-99-00-04-Definitions.md)  | [Memes](./Appendices-Top/Personhood-99-00-05-Memes.md)  | [Admin](./Appendices-Top/Personhood-99-00-06-Admin.md)  
+> [TT4N](./Appendices-Top/Personhood-99-00-07-TTFN.md) | [Bibliography](./Appendices-Top/Personhood-99-00-99-Bibliography.md) | [Hosts](./Appendices-Top/Personhood-99-00-08-Hosts.md)
 
 ## Personhood	
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 *Personhood* is the hot-button issue of this decade.
 
->**Headline News:** The governor of [ST] signed into law a one-line declaration, &quot;Legal biological personhood starts at fertilization&quot;, in effect making an end run around the United States Constitution, forcing reinterpretation of many of [ST]&rsquo;s civil and criminal laws. The [ST] legislature is in the process of drafting a second one-line law that criminalizes destruction of gametes. Lawyer up everyone.</blockquote>
+>**Headline News:**
+
+>The governor of [ST] signed into law a one-line declaration, &quot;Legal biological personhood starts at fertilization&quot;, in effect making an end run around the United States Constitution, forcing reinterpretation of many of [ST]&rsquo;s civil and criminal laws. 
+
+>The [ST] legislature is in the process of drafting a second one-line law that criminalizes destruction of gametes. 
+
+>Lawyer up everyone.
 
 *Personhood* controversies are front and center; are focused on the social and legal; have incited the full spectrum of vocal ideologists; have pitted the true believers against moderate reasoners. Legislatures and courts are deciding the constitutional, civil, and criminal person's future.
 
-*Personhood*, in general, may apply to some or all human beings, sentient beings, or organizations. A person is legally constrained when in a vegetative state, is insane, or is incompetent. The root of more than one controversy calls into question a person's social and legal definition, inception, control, characteristics, competency, capacity, harm, rights, freedoms, liberties, responsibilities, and cessation.
+*Personhood*, in general, may apply to some or all human beings, sentient beings, or organizations. A person is legally constrained when in a vegetative state, is insane, or is incompetent. The root of more than one controversy calls into question a person's
+- legal definition (civil, criminal)
+- social definition (personal, family, friends)
+- inception
+   - controls
+   - characteristics
+   - competencies and capacities
+   - harms
+   - rights and freedoms
+   - liberties and responsibilities
+- cessation
+   - when
+   - why
+   - how
+   - where
+   - who
 
 Here are some examples:
 
-- **Abortion** - inception, rights, responsibilities, cessation;
-- **Guns** - control, harm, rights, competency, responsibilities;
-- **Transgender** - definition, harm, rights, characteristics;
-- **Voting** - capacity, rights;
-- **Assault** - control, harm;
-- **Climate** - rights, responsibilities, harm;
-- **Addiction** - characteristics, harm, responsibilities;
-- **Immigration** - control, rights, freedoms, responsibilities;
-- **Death Penalty** - rights, competency, responsibilities, cessation.
+| ----: |:---- |
+| **Abortion** | inception, rights, responsibilities, cessation|
+| **Guns** | control, harm, rights, competency, responsibilities|
+| **Transgender** | definition, harm, rights, characteristics|
+| **Voting** | capacity, rights|
+| **Assault** | control, harm|
+| **Climate** | rights, responsibilities, harm|
+| **Addiction** | characteristics, harm, responsibilities|
+| **Immigration** | control, rights, freedoms, responsibilities|
+| **Death Penalty** | rights, competency, responsibilities, cessation. |
 
 *Personhood*, it all starts with how a person is constitutionally, civilly, and criminally designated.
 
@@ -29,17 +58,25 @@ However, the devil is in the details.
 
 ## Minimal Designations
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
-A juridical person - commonly called a corporation - is the simpler instance where legal personhood is defined by officers signing articles of incorporation. A juridical person is a non-human legal person separate from the organization's membership. This may include juridical persons who manufacture substances (...opioids, cigarettes) and/or durable goods (...guns, Teslas) that cause harm to, or cause the death of, biological persons - particularly where the corporation has not implemented reasonable precautions to prevent harm or death. There are many controversies involving juridical persons. The whole idea of a juridical person is one such controversy. Thousands of liability cases have been heard over the years, and since the late 1800's the Supreme Court has heard several juridical persons' equal protection cases.
+### A juridical person
 
-A biological person is the less simple instance where minimally persons must be able to reproduce, must create new persons (barring congenital or situational incapacitation; ignoring the chicken/egg conundrum). Reproduction may be sexual requiring two inputs, that is inter-gamete contact, or asexual requiring only one input. Mammalian reproduction typically requires two inputs, though one input may suffice. Mammalian cloning requiring one input has been practiced for decades (note: Dolly the sheep was cloned at Roslin Institute in Scotland then born on July 5th, 1996). There are many controversies involving biological persons per se. Beyond the input(s) and cloning, the idea of intentionally aborting or executing a biological person is the trickiest controversy. Hundreds of related cases have been heard over the years, and the Supreme Court has heard several reproduction cases focusing on constitutional rights.
+Commonly called a corporation - is the simpler instance where legal personhood is defined by officers signing articles of incorporation. A juridical person is a non-human legal person separate from the organization's membership. This may include juridical persons who manufacture substances (...opioids, cigarettes) and/or durable goods (...guns, Teslas) that cause harm to, or cause the death of, biological persons - particularly where the corporation has not implemented reasonable precautions to prevent harm or death. There are many controversies involving juridical persons. The whole idea of a juridical person is one such controversy. Thousands of liability cases have been heard over the years, and since the late 1800's the Supreme Court has heard several juridical persons' equal protection cases.
 
-However, given modern medicine, has case law unequivocally defined a person and, more importantly, designated the start of personhood?
+### A biological person
+
+The less simple instance where minimally persons must be able to reproduce, must create new persons (barring congenital or situational incapacitation; ignoring the chicken/egg conundrum). Reproduction may be sexual requiring two inputs, that is inter-gamete contact, or asexual requiring only one input. Mammalian reproduction typically requires two inputs, though one input may suffice. Mammalian cloning requiring one input has been practiced for decades (note: Dolly the sheep was cloned at Roslin Institute in Scotland then born on July 5th, 1996). There are many controversies involving biological persons per se. Beyond the input(s) and cloning, the idea of intentionally aborting or executing a biological person is the trickiest controversy. Hundreds of related cases have been heard over the years, and the Supreme Court has heard several reproduction cases focusing on constitutional rights.
+
+### Modern Law and Medicine
+
+However, given advances in modern medicine:
+
+>Has case law unequivocally defined a person and, more importantly, designated the start of personhood?
 
 ## Innocent Beginnings
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 So, pick one or more of these options covering each stage of biological development occurring in or out of a womb. A biological person starts:
 
@@ -59,7 +96,7 @@ So, pick one or more of these options covering each stage of biological developm
 
 `8. 	after a designated timespan from the estimated date of fertilization or the date of initial cloning - 20 weeks?
 
-`9. 	when the unassisted body can survive in open air (a final home
+`9. 	when the unassisted body can survive in open air (a final home)
 
 `10. 	when the body is registered with the proper authorities and is uniquely identified - an inked footprint or fingerprints
 
@@ -67,21 +104,21 @@ Still, given a clear and unequivocal start to a biological person, legally &quot
 
 Adding another idiom into the mix, is this an instance of putting the cart before the horse, defining the legal start of a person without examining hypothetical legal cases?
 
-As such, how many people hold related unexamined beliefs?
+>As such, how many people hold related unexamined beliefs?
 
 ## Neutral Law
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 In a country where the rule of law prevails, a reasonable person may expect a rational basis for an unequivocal legal definition of personhood vs human being that must prevail under all laws. Furthermore, laws pertaining to death or harm (for example: negligence, homicide, kidnapping) must apply to all legal biological persons. Anyone who aids and/or abets the breaking of those laws must be identified, charged, and tried in a court of law. Though historically not all of the People were equal - 3/5<sup>th</sup>Slaves; Japanese (1940s); Communists (1950s); Homosexuals (&lt; 2003) all presumed guilty.
 
 The *Unborn Victims of Violence Act*, signed into law by George W. Bush on April 1, 2004, makes it a crime to cause harm or death to a &quot;child in utero&quot; as &quot;a member of the species Homo sapiens, at any stage of development, who is carried in the womb&quot; ...though it bars prosecution
 
-> "(1) of any person for conduct relating to an abortion for which the consent of the pregnant woman, or a person authorized by law to act on her behalf, has been obtained or for which such consent is implied by law;
+ "(1) of any person for conduct relating to an abortion for which the consent of the pregnant woman, or a person authorized by law to act on her behalf, has been obtained or for which such consent is implied by law;
 
-> (2) of any person for any medical treatment of the pregnant woman or her unborn child; or
+ (2) of any person for any medical treatment of the pregnant woman or her unborn child; or
 
-> (3) of any woman with respect to her unborn child.&quot;
+ (3) of any woman with respect to her unborn child.&quot;
 
 In the text of this Act, the references to &quot;homo sapiens&quot;, &quot;unborn&quot;, &quot;child&quot;, &quot;womb&quot;, and &quot;any stage of development&quot; are tantalizingly close to defining personhood, but are neither linguistically, medically, nor legally definitive per se - nor is that the intent of the Act.
 
@@ -117,11 +154,11 @@ e.	Under what conditions may a significant legal factor unintentionally criminal
 
 f.	What significant legal factors enter the realm of Monty Phython's song &quot; *every sperm is sacred&hellip;* &quot; (&quot;The Meaning of Life&quot;, 1983)?
 
-However, even with boundaries identified, legal decisions may be required to unequivocally designate when personhood starts, and the role of its components.
+>However, even with boundaries identified, legal decisions may be required to unequivocally designate when personhood starts, and the role of its components.
 
 ## Intriguing Legal Case Studies
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs.
 
@@ -188,7 +225,7 @@ These are presented in the order of most to least intriguing.
   - Is that a wrongful death?
   - Is this a breach of implied-in-fact contract?
   - Who is a legitimate complainant?
-  - ...the potential father?</li>
+  - ...the potential father?
   - What if the potential mother experiences multiple &ldquo;miscarriages&rdquo;?
   - Is she guilty until proven innocent, suspected of taking abortifacient medications?
 
@@ -223,7 +260,7 @@ These are presented in the order of most to least intriguing.
 `11. 	 An unrelated person files a legal claim or makes a citizen's arrest regarding any of the above (10) cases.
 
   - Is the unrelated person a legitimate complainant?
-  - Does the &quot;next friend doctrine&quot; apply, where the third party is an infant or mentally handicapped  - ...or an unborn legal person?</li>
+  - Does the &quot;next friend doctrine&quot; apply, where the third party is an infant or mentally handicapped  - ...or an unborn legal person?
   - Under what conditions may the potential mother's or potential father's rights be legally overridden or otherwise are subordinate to the unborn?
   - May a law incentivize enforcement and/or involvement of unrelated persons by providing statutory damages?
   - Under what conditions is this considered &quot;vigilantism&quot;, enforcing a law without legal authority?
@@ -237,7 +274,7 @@ These are presented in the order of most to least intriguing.
 
 ## Provocative Questions
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the legal case studies weren't provocative enough, the following list includes several ideas that may be approached with caution. These are presented in no particular order. Given legal personhood starts prior to being born:
 
@@ -271,8 +308,8 @@ As if the legal case studies weren't provocative enough, the following list incl
 
 `7. 	 May a medical practitioner be required by law to withhold care from a potential mother, if the care (...chemotherapy) endangers the unborn?
 
-  - ...where either may die?</li>
-  - ...where both may die?</li>
+  - ...where either may die?
+  - ...where both may die?
   - Which legal person&rsquo;s rights are subordinate?
   - Is withholding care a form of *cruel and unusual punishment* - where it is &ldquo;degrading to the human dignity&rdquo; of the potential mother, &ldquo;is patently unnecessary&rdquo; (8<sup>th</sup>Amendment) (Furman v. Georgia - 1972)?
   - Is abortion *never* a medical necessity?
@@ -280,7 +317,7 @@ As if the legal case studies weren't provocative enough, the following list incl
 
 `8. 	What is the statute of limitations for crimes involving harm to, or the death of, the unborn?
 
-  - ...equal treatment vs other homicides?</li>
+  - ...equal treatment vs other homicides?
 
 `9. 	How does this impact direct or indirect culpability related to past crimes?
 
@@ -311,29 +348,29 @@ As if the legal case studies weren't provocative enough, the following list incl
 
 ## Scary Future Developments
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the provocative questions weren't scary enough, the following list includes a few near-future science-fiction possibilities to imagine.
 
 `1. 	Given medical advances regarding indefinitely sustaining (&hellip;&ldquo;The Matrix&rdquo;, 1999) or freezing the unborn in an artificial environment:
 
   - What laws would require being born by force?
-  - ...coerced compassionate transfer or face criminal charges?</li>
+  - ...coerced compassionate transfer or face criminal charges?
   - Under what conditions must the risks be considered of causing harm to, or the death of, the unborn?
   - May an individual (&hellip;next friend doctrine) petition a judge to issue a writ of habeas corpus - stopping unlawful imprisonment?
   - What is the age of a person sustained in an artificial environment for more than 9 months?
-  - ...for less than 9 months?</li>
+  - ...for less than 9 months?
 
 `2. 	Given medical advances regarding genetic engineering (&hellip;CRISPR, 2012) where the genome (DNA) of living organisms may be modified:
 
   - What are the legal implications of modifying a zygote's DNA such that the gnome is sufficiently different resulting in a person with diminished capacity vs baseline Homo sapiens?
   - Is this another species - Homo reducto?
-  - ...diminished regarding lobes of the brain or body composition?</li>
+  - ...diminished regarding lobes of the brain or body composition?
 
 `3. 	What are the legal implications of modifying a zygote's DNA such that the gnome is sufficiently different resulting in a person with superior capacity vs baseline Homo sapiens?
 
   - Is this another species - Homo superio?
-  - ...superior regarding body composition or longevity?</li>
+  - ...superior regarding body composition or longevity?
 
 `4. 	Are Homo reducto, Homo superio, and/or other sentient beings (e.g., dolphins, apes, elephants, extraterrestrials) legal biological persons?
 
@@ -343,7 +380,7 @@ As if the provocative questions weren't scary enough, the following list include
 
 ## Worst Case Scenarios
 
->[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [wor](#worst-case-scenarios)
+>[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 `1. 	Legislatures, organizations, and/or individuals deploy mobile surveillance systems and facial recognition software with the purpose of monitoring medical facilities and pharmacies to identify alleged reproductive criminals (4. 4m pregnancies/year - 1m miscarriages/year). Organizations and/or individuals profit from court approved statutory damages and/or privately funded finder's fees awarded to strawman complainant employees - a new line of income for Organized Crime Control (RICO) Act (1970) organizations and for gig workers on the road!
 
@@ -364,4 +401,5 @@ As if the provocative questions weren't scary enough, the following list include
 
 `6. 	Abortion per se is moot. Only homicide and wrongful death trials may be heard after premature death of the unborn. Who would want that?
 
-Copyleft 2022 - edit, reproduce, publish</p></body></html>
+Copyleft 2022 - edit, reproduce, publish
+
