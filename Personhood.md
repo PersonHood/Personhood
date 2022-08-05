@@ -382,24 +382,58 @@ As if the provocative questions weren't scary enough, the following list include
 
 >[top](#personhood) | [min](#minimal-designations) | [inn](#innocent-beginnings) | [neu](#neutral-law) | [int](#intriguing-legal-case-studies) | [pro](#provocative-questions) | [sca](#scary-future-developments) | [worst](#worst-case-scenarios)
 
-`1. 	Legislatures, organizations, and/or individuals deploy mobile surveillance systems and facial recognition software with the purpose of monitoring medical facilities and pharmacies to identify alleged reproductive criminals (4. 4m pregnancies/year - 1m miscarriages/year). Organizations and/or individuals profit from court approved statutory damages and/or privately funded finder's fees awarded to strawman complainant employees - a new line of income for Organized Crime Control (RICO) Act (1970) organizations and for gig workers on the road!
+`1. 	Legislatures, organizations, and/or individuals deploy readily available mobile surveillance systems and facial recognition software ("there's an app for that") with the purpose of monitoring medical facilities and pharmacies to identify alleged reproductive criminals.
+- ***4,400,000 pregnancies/year***
+- ***1,000,000 miscarriages/year*** (~25%)
+   - estimating 4-5 friends and family, aiding and abetting
+   - estimating 4-5 third-party individuals incidentally or directly providing services, aiding and abetting
+   - results in 36,000,000+ potential court cases per year
+   - multiplied times two, or more, if those culpable crossed state lines where each alleged perpetrator is tried sparately due to the sovereignty doctrine (*Gamble v. United States* 2019), no double-jeopardy restrictions
+   - estimating a mere .001% conviction rate in *death penalty* States - 360 more baby killers and co-conspirators on death row each year and at least that many deaths in the proverbial *back alley* each year
+   - $3,600,000 each year in statutory damages payouts alone - not accounting for lawyers' fees, bail, lost employment, lost productivity, follow-up mental health care, and possible suicidal endangerment
+   - the lawyers' future are so bright they have to wear shades (*Timbuk 3* - 1986)
+- ***abortion protesters*** fully embrace (understatement) their new role as "criminal investigators" (starting in June in Texas) and no recruiting needed, they are out in front of clinics already
+- organizations and/or individuals profit from court approved statutory damages ($10,000 per case) and/or privately funded finder's fees awarded to strawman complainant employees
+- a new line of income for Organized Crime Control (RICO) Act (1970) organizations (gangs, the mob, bikers, drug cartels, oil cartels, the far right, Q-anon, etc.)
+- presenting more opportunities for gig workers on the road
+- *and* there is no law stopping them, it is State mandated !
 
-`2. 	Legislatures, organizations, and/or individuals create mandated and/or informal &quot;pregnancy registries&quot; where reproductive progress is monitored using physical and social media methods. Impairing and/or failing to satisfactorily complete the reproductive process results in criminal and/or extortive claims against the alleged perpetrators - more opportunities for tele-commuting global gig workers!
+`2. 	Legislatures, organizations, and/or individuals create mandated and/or informal ***pregnancy registries*** 
+- ...where reproductive progress is monitored using physical and social media methods
+- ...where impairing and/or failing to *satisfactorily* complete the reproductive process is subject to investigation
+- where findings may result in criminal and/or extortive claims against the alleged perpetrators 
+- ...subjecting those aiding and abetting to coercive threats, blackmail, etc.
+- presenting more opportunities for tele-commuting global gig workers
+- *and* there is no law stopping them, it is State mandated !
 
-`3. 	Legislatures, organizations, and/or individuals employ social media and facial recognition software to identify alleged reproductive criminals, publish names and addresses on-line (... sex offender registries, doxing), and/or employ extortion/protection racket methods (...revenge porn).
+`3. 	Legislatures, organizations, and/or individuals employ social media and facial recognition software to 
+- identify alleged reproductive criminals
+- publish names and addresses on-line ***sex offender registries*** - doxing
+- employ extortion and protection-racket methods (...revenge porn)
+- *and* there is no law stopping them, it is State mandated !
 
 `4. 	Underground organizations exploit the criminalization of reproduction by furnishing:
+  -  ***abortion boats*** traveling to jurisdictionally safe waters just like riverboat gambling except not
+  -  ***abortion buses*** to Canada, Mexico, and/or safe states
+  -   outfitting clandestine clinics and medical practitioners - ***speakeasies***
+  -  ***bootlegging*** medications by mail
+  -  engaging in deadly battles for territorial control by drug cartels and mob bosses
+  - This will inevitably entail all of the historically prevalent scams, extortions, corruptions, dirty cops, and harm: human, organ, and fetal-stem-cell trafficking worth millions of dollars
 
-  -  &quot;abortion boats&quot; traveling to jurisdictionally safe waters (...riverboat gambling)
-  -  and &quot;abortion buses&quot; to Canada, Mexico, and/or safe states
-  -   outfitting clandestine clinics and medical practitioners (...speakeasies);
-  -  providing medications by mail (&hellip;bootlegging);
-  -  engaging in deadly battles for territorial control (&hellip;drug cartels, mob bosses).
-  - This will inevitably entail all of the historically prevalent scams, extortions, corruptions, and harm (...human, organ, and stem-cell trafficking).
+`5. 	Criminalization and vigilantism fosters a disincentive (understatement) to reproduce
+- ... or associate with, employ, house, transport, educate, interact with, or otherwise serve a person attempting to reproduce
+- putting those organizations and individuals at criminal and civil legal risk
+- whether directly or indirectly involved in the reproductive process
+- where the result is (or a claim may be made of) possible harm to, or death of, the unborn 
+- resulting in a world of guilty until proven innocent
+- and women's life-long reputational risk
 
-`5. 	Criminalization and vigilantism fosters a disincentive to reproduce or associate with, employ, house, transport, educate, interact with, or otherwise serve a person attempting to reproduce, whether directly or indirectly involved in the reproductive process, where the result is (or a claim may be made of) possible harm to, or death of, the unborn - resulting in a world of guilty until proven innocent and reputational risk.
-
-`6. 	Abortion per se is moot. Only homicide and wrongful death trials may be heard after premature death of the unborn. Who would want that?
+`6. 	Abortion per se is no longer a legal concern
+- only homicide and wrongful death trials may be heard after premature death of the unborn
+- where the death penalty may be issued, no different from murdering a toddler...
+- Who would want that?
+- *"...but but that is not what we intended to happen"* said every last individual on the band-wagon after it headed to hell
+- *"...and to all a good night"* (December 23rd, 1823 front page of *The Troy Sentinel*)
 
 Copyleft 2022 - edit, reproduce, publish
 
