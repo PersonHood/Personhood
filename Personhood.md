@@ -9,6 +9,7 @@
 ## Personhood	
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 *Personhood* is the hot-button issue of this decade.
@@ -45,15 +46,18 @@
 
 Here are some examples:
 
-| ----: |:---- |
-| **Abortion** | inception, rights, responsibilities, cessation|
-| **Guns** | control, harm, rights, competency, responsibilities|
-| **Transgender** | definition, harm, rights, characteristics|
-| **Voting** | capacity, rights|
-| **Assault** | control, harm|
-| **Climate** | rights, responsibilities, harm|
-| **Addiction** | characteristics, harm, responsibilities|
-| **Immigration** | control, rights, freedoms, responsibilities|
+| ----: |:----  |
+| **Abortion** | inception, rights, responsibilities, cessation |
+| **Guns** | control, harm, rights, competency, responsibilities |
+| **Transgender** | definition, harm, rights, characteristics |
+| Same Sex Marriage | rights, freedoms, responsibilities |
+| Mixed Race Marriage | rights, freedoms, responsibilities |
+| Slavery | rights, control, responsibilities, harm |
+| **Voting** | capacity, rights |
+| **Assault** | control, harm |
+| **Climate** | rights, responsibilities, harm |
+| **Addiction** | characteristics, harm, responsibilities |
+| **Immigration** | control, rights, freedoms, responsibilities |
 | **Death Penalty** | rights, competency, responsibilities, cessation. |
 
 *Personhood*, it all starts with how a person is constitutionally, civilly, and criminally designated.
@@ -63,6 +67,7 @@ However, the devil is in the details.
 ## Minimal Designations
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 ### A juridical person
@@ -82,6 +87,7 @@ However, given advances in modern medicine:
 ## Innocent Beginnings
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 So, pick one or more of these options covering each stage of biological development occurring in or out of a womb. A biological person starts:
@@ -115,6 +121,7 @@ Adding another idiom into the mix, is this an instance of putting the cart befor
 ## Neutral Law
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 In a country where the rule of law prevails, a reasonable person may expect a rational basis for an unequivocal legal definition of personhood vs human being that must prevail under all laws. Furthermore, laws pertaining to death or harm (for example: negligence, homicide, kidnapping) must apply to all legal biological persons. Anyone who aids and/or abets the breaking of those laws must be identified, charged, and tried in a court of law. Though historically not all of the People were equal - 3/5<sup>th</sup>Slaves; Japanese (1940s); Communists (1950s); Homosexuals (&lt; 2003) all presumed guilty.
@@ -283,6 +290,7 @@ These are presented in the order of most to least intriguing.
 ## Provocative Questions
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the legal case studies weren't provocative enough, the following list includes several ideas that may be approached with caution. These are presented in no particular order. Given legal personhood starts prior to being born:
@@ -358,6 +366,7 @@ As if the legal case studies weren't provocative enough, the following list incl
 ## Scary Future Developments
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the provocative questions weren't scary enough, the following list includes a few near-future science-fiction possibilities to imagine.
@@ -400,6 +409,7 @@ As if the provocative questions weren't scary enough, the following list include
 ## Worst Case Scenarios
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 >>*Intriguing*, *Provocative*, and *Scary*. 
