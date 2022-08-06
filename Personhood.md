@@ -173,6 +173,7 @@ f.	What significant legal factors enter the realm of Monty Phython's song &quot;
 ## Intriguing Legal Case Studies
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
+
 > [question](#provocative-questions) | [scary](#scary-future-developments) | [worst](#worst-case-scenarios)
 
 As if the gamete questions weren't intriguing enough, the following list includes several hypothetical legal case studies focusing on unintended consequences and unexamined beliefs.
