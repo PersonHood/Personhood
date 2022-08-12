@@ -4,9 +4,9 @@
 
 > [Appendices](./Appendices-Top/Personhood-99-00-00-Appendices.md)  | [WTF](./Appendices-Top/Personhood-99-00-01-WTF.md)  | [Motivate](./Appendices-Top/Personhood-99-00-02-Motivate.md)  
 > [Overview](./Appendices-Top/Personhood-99-00-03-Overview.md)  | [Definitions](./Appendices-Top/Personhood-99-00-04-Definitions.md)  | [Memes](./Appendices-Top/Personhood-99-00-05-Memes.md)  | [Admin](./Appendices-Top/Personhood-99-00-06-Admin.md)  
-> [TT4N](./Appendices-Top/Personhood-99-00-07-TTFN.md) | [Bibliography](./Appendices-Top/Personhood-99-00-99-Bibliography.md) | [Hosts](./Appendices-Top/Personhood-99-00-08-Hosts.md)
+> [TT4N](./Appendices-Top/Personhood-99-00-07-TT4N.md) | [Hosts](./Appendices-Top/Personhood-99-00-08-Hosts.md) | [Bibliography](./Appendices-Top/Personhood-99-00-99-Bibliography.md) 
 
-## Personhood	
+# Personhood	
 
 >[top](#personhood) | [define](#minimal-designations) | [begin](#innocent-beginnings) | [law](#neutral-law) | [case](#intriguing-legal-case-studies)
 
@@ -112,7 +112,11 @@ So, pick one or more of these options covering each stage of biological developm
 
 `10. 	when the body is registered with the proper authorities and is uniquely identified - an inked footprint or fingerprints
 
-Still, given a clear and unequivocal start to a biological person, legally &quot; ...it's always something - if it&rsquo;s not one thing, it's another.&quot; (Roseanne Roseannadanna of &quot;Saturday Night Live&quot; 1977-1980).
+Still, given a clear and unequivocal start to a biological person, legally 
+>&quot; ...it's always something
+>if it&rsquo;s not one thing, it's another.&quot; 
+- Roseanne Roseannadanna
+- &quot;Saturday Night Live&quot; 1977-1980
 
 Adding another idiom into the mix, is this an instance of putting the cart before the horse, defining the legal start of a person without examining hypothetical legal cases?
 
@@ -438,7 +442,7 @@ For some reason, Pandora's box and *Indiana Jones* (1981) come to mind.
 - Will icecream guy and AZ SB1367 (2017) guy Ducey be the first to lethally inject a mom?
 
 On the other hand:
-- ultra-conservative mid-west Kansans voted to retain their State's constitution guaranteed right to abortion - by a 20% margin - including in counties the Republicans own. No near-future undermining permitted.
+- ultra-conservative mid-west Kansans voted to retain their State's constitutionally backed guaranteed right to abortion - by a 20% margin - including in counties the Republicans own. No near-future undermining permitted.
 
 A silver lining.
 
@@ -454,7 +458,7 @@ Worst-er than written herein is inevitable.
 
 Each was unimaginable before its time...
 
-**and** it will all be State mandated, so it is all AOK !
+>**and** it will all be State mandated, so it is all AOK !
 
 So, back to the lists, a final six item list:
 
